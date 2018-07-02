@@ -1,0 +1,11 @@
+https://example.com {
+	root /var/www/
+	timeouts none
+	tls my@example.com
+	index index.html
+	proxy /h2 https://127.0.0.1:10086 {
+		header_upstream Host "example.com"
+		header_upstream X-Forwarded-Proto "https"
+		insecure_skip_verify
+	}
+}
