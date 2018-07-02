@@ -1,0 +1,11 @@
+https://example.com {
+	root /var/www/
+	timeouts none
+	tls my@example.com
+	gzip
+	index index.html
+	proxy /ws localhost:10086 {
+		websocket
+		header_upstream -Origin
+	}
+}
