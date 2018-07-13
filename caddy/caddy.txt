@@ -1,13 +1,13 @@
-°²×°
+å®‰è£…
 curl https://getcaddy.com | bash -s personal http.filemanager
 
-²é¿´°²×°Î»ÖÃ
+æŸ¥çœ‹å®‰è£…ä½ç½®
 which caddy
 
-´´½¨caddyÓÃ»§×é
+åˆ›å»ºcaddyç”¨æˆ·ç»„
 adduser -r -d /var/www -s /sbin/nologin caddy
 
-´´½¨ÎÄ¼ş£¬Ä¿Â¼£¬ÉèÖÃÈ¨ÏŞ
+åˆ›å»ºæ–‡ä»¶ï¼Œç›®å½•ï¼Œè®¾ç½®æƒé™
 mkdir /etc/caddy
 chown -R root:caddy /etc/caddy
 touch /etc/caddy/Caddyfile
@@ -16,24 +16,27 @@ chown -R caddy:root /etc/ssl/caddy
 chmod 0770 /etc/ssl/caddy
 mkdir /var/www
 chown caddy:caddy /var/www
+mkdir /var/log/caddy
+chown -R root:caddy /var/log/caddy
+chmod 0770 /var/log/caddy
 
-°²×°Îª·şÎñ
+å®‰è£…ä¸ºæœåŠ¡
 curl -s https://raw.githubusercontent.com/mholt/caddy/master/dist/init/linux-systemd/caddy.service -o /etc/systemd/system/caddy.service
 
-ĞŞ¸ÄÓÃ»§×é
+ä¿®æ”¹ç”¨æˆ·ç»„
 vi /etc/systemd/system/caddy.service
 ; User and group the process will run as.
 User=caddy
 Group=caddy
 
-ÖØĞÂ¼ÓÔØ·şÎñ
+é‡æ–°åŠ è½½æœåŠ¡
 systemctl daemon-reload
 
-ÉèÖÃ¿ª»úÆô¶¯
+è®¾ç½®å¼€æœºå¯åŠ¨
 systemctl enable caddy.service
 systemctl status caddy.service
 
-·À»ğÇ½¶Ë¿Ú
+é˜²ç«å¢™ç«¯å£
 firewall-cmd --permanent --zone=public --add-service=http 
 firewall-cmd --permanent --zone=public --add-service=https
 firewall-cmd --reload
