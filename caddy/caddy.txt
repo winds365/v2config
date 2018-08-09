@@ -1,5 +1,5 @@
 安装
-curl https://getcaddy.com | bash -s personal http.filemanager
+curl https://getcaddy.com | bash -s personal tls.dns.vultr
 
 查看安装位置
 which caddy
