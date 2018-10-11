@@ -6,30 +6,23 @@
   },
   "inbound": {
     "port": 10086,
-    "listen": "127.0.0.1",
     "protocol": "vmess",
     "settings": {
-      "auth": null,
-      "udp": true,
-      "ip": null,
       "clients": [
         {
           "id": "6fe63140-7f14-450d-83b0-b40d56edcefc",
-		  "level": 1,
-          "alterId": 64,
-          "security": "aes-128-gcm"
+          "level": 1,
+          "alterId": 64
         }
       ]
     },
     "streamSettings": {
       "network": "h2",
+      "security": "tls",
       "httpSettings": {
-        "host": [
-          "example.com"
-        ],
+        "host": ["example.com"],
         "path": "/h2"
       },
-	  "security": "tls",
       "tlsSettings": {
         "certificates": [
           {
@@ -41,48 +34,24 @@
     }
   },
   "outbound": {
-    "tag": null,
     "protocol": "freedom",
-    "settings": null,
-    "streamSettings": null,
-    "mux": null
+    "settings": {}
   },
-  "inboundDetour": null,
   "outboundDetour": [
     {
       "protocol": "blackhole",
-      "settings": null,
+      "settings": {},
       "tag": "blocked"
     }
   ],
-  "dns": null,
   "routing": {
     "strategy": "rules",
     "settings": {
-      "domainStrategy": null,
       "rules": [
         {
           "type": "field",
-          "port": null,
-          "outboundTag": "blocked",
-          "ip": [
-            "0.0.0.0/8",
-            "10.0.0.0/8",
-            "100.64.0.0/10",
-            "127.0.0.0/8",
-            "169.254.0.0/16",
-            "172.16.0.0/12",
-            "192.0.0.0/24",
-            "192.0.2.0/24",
-            "192.168.0.0/16",
-            "198.18.0.0/15",
-            "198.51.100.0/24",
-            "203.0.113.0/24",
-            "::1/128",
-            "fc00::/7",
-            "fe80::/10"
-          ],
-          "domain": null
+          "ip": ["geoip:private"],
+          "outboundTag": "blocked"
         }
       ]
     }
