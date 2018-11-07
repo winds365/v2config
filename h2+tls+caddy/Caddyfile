@@ -1,11 +1,20 @@
-https://example.com {
-	root /var/www/
+example.com {
+	root	/var/www/
 	timeouts none
-	tls my@example.com
-	index index.html
-	proxy /h2 https://localhost:10086 {
-		header_upstream Host "example.com"
+	tls {
+		dns vultr
+		protocols tls1.1 tls1.2
+	}
+	index	index.html
+	header	/ Strict-Transport-Security "max-age=31536000;"
+	proxy	/nvidia https://localhost:30006 {
+		header_upstream Host "maxdos.ml"
 		header_upstream X-Forwarded-Proto "https"
 		insecure_skip_verify
+	}
+	log / /var/log/caddy/maxdos.ml.log {
+		rotate_size 50
+		rotate_age 90
+		rotate_keep 5
 	}
 }
