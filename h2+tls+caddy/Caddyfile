@@ -8,11 +8,11 @@ example.com {
 	index	index.html
 	header	/ Strict-Transport-Security "max-age=31536000;"
 	proxy	/nvidia https://localhost:30006 {
-		header_upstream Host "maxdos.ml"
+		header_upstream Host "example.com"
 		header_upstream X-Forwarded-Proto "https"
 		insecure_skip_verify
 	}
-	log / /var/log/caddy/maxdos.ml.log {
+	log / /var/log/caddy/example.com.log {
 		rotate_size 50
 		rotate_age 90
 		rotate_keep 5
