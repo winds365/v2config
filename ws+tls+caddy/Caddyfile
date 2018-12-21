@@ -1,4 +1,4 @@
-https://example.com {
+example.com {
 	root /var/www/
 	timeouts none
 	tls my@example.com
