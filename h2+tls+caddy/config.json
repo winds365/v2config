@@ -4,40 +4,51 @@
     "error": "/var/log/v2ray/error.log",
     "loglevel": "warning"
   },
-  "inbound": {
-    "port": 10086,
-    "protocol": "vmess",
-    "settings": {
-      "clients": [
-        {
-          "id": "6fe63140-7f14-450d-83b0-b40d56edcefc",
-          "level": 1,
-          "alterId": 64
-        }
-      ]
-    },
-    "streamSettings": {
-      "network": "h2",
-      "security": "tls",
-      "httpSettings": {
-        "host": ["example.com"],
-        "path": "/h2"
+  "inbounds": [
+    {
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ]
       },
-      "tlsSettings": {
-        "certificates": [
+      "port": 10086,
+      "protocol": "vmess",
+      "settings": {
+        "clients": [
           {
-            "keyFile": "/etc/ssl/caddy/example.com.key",
-            "certificateFile": "/etc/ssl/caddy/example.com.crt"
+            "id": "6fe63140-7f14-450d-83b0-b40d56edcefc",
+            "level": 1,
+            "alterId": 64
           }
         ]
+      },
+      "streamSettings": {
+        "network": "h2",
+        "security": "tls",
+        "httpSettings": {
+          "host": [
+            "example.com"
+          ],
+          "path": "/h2"
+        },
+        "tlsSettings": {
+          "certificates": [
+            {
+              "keyFile": "/etc/ssl/caddy/example.com.key",
+              "certificateFile": "/etc/ssl/caddy/example.com.crt"
+            }
+          ]
+        }
       }
     }
-  },
-  "outbound": {
-    "protocol": "freedom",
-    "settings": {}
-  },
-  "outboundDetour": [
+  ],
+  "outbounds": [
+    {
+      "protocol": "freedom",
+      "settings": {}
+    },
     {
       "protocol": "blackhole",
       "settings": {},
@@ -45,15 +56,14 @@
     }
   ],
   "routing": {
-    "strategy": "rules",
-    "settings": {
-      "rules": [
-        {
-          "type": "field",
-          "ip": ["geoip:private"],
-          "outboundTag": "blocked"
-        }
-      ]
-    }
+    "rules": [
+      {
+        "type": "field",
+        "ip": [
+          "geoip:private"
+        ],
+        "outboundTag": "blocked"
+      }
+    ]
   }
 }
