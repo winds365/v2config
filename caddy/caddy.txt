@@ -23,11 +23,12 @@ chmod 0775 /var/log/caddy
 安装为服务
 curl -s https://raw.githubusercontent.com/mholt/caddy/master/dist/init/linux-systemd/caddy.service -o /etc/systemd/system/caddy.service
 
-修改用户组
+修改用户组,api,log
 vi /etc/systemd/system/caddy.service
-; User and group the process will run as.
 User=caddy
 Group=caddy
+Environment=VULTR_API_KEY=xxx
+-log=/var/log/caddy/caddy.log
 
 重新加载服务
 systemctl daemon-reload
