@@ -15,7 +15,7 @@ mkdir /etc/ssl/caddy
 chown -R caddy:root /etc/ssl/caddy
 chmod 0770 /etc/ssl/caddy
 mkdir /var/www
-chown caddy:caddy /var/www
+chown -R caddy:root /var/www
 mkdir /var/log/caddy
 chown -R root:caddy /var/log/caddy
 chmod 0775 /var/log/caddy
