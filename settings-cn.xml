@@ -4,125 +4,125 @@
     <tag language="English" />
   </tags>
   <strings>
-    <string id="txpg0001" text="1. Tournament Configuration" />
-    <string id="txpg0002" text="2. ÖØÖÃ½±³ØµÄ´ÎÊý" />
-    <string id="txpg0003" text="3.1 ½±Æ·Ñ¡Ôñ" />
-    <string id="txpg0004" text="3.2 ½±Æ·À´Ô´" />
-    <string id="txpg0005" text="3.3 ½±Æ·¼ÛÖµ" />
-    <string id="txpg0006" text="3.4 ½±Æ·ÀàÐÍÉ¸Ñ¡" />
-    <string id="txpg0007" text="3.5 ½±Æ·ÀàÐÍÉ¸Ñ¡" />
-    <string id="txpg0008" text="4.1 ×Ü½±½ð" />
-    <string id="txpg0009" text="4.2 Ã¿³¡±ÈÈüµÄ½±½ð" />
-    <string id="txpg0010" text="4.3 Ã¿»ØºÏ¶ÔÊÖÄÑ¶È½±ÀøµÄÉùÍû" />
-    <string id="txpg0011" text="98. ÊµÑéÐÔµÄ" />
-    <string id="txpg0012" text="99. Î´Ê¹ÓÃ" />
-    <string id="txpg0013" text="99. Õï¶ÏÏµÍ³" />
-    <string id="txpd0014" text="ÆôÓÃ½õ±êÈüXP" />
-    <string id="txpd0015" text="½õ±êÈüXPµ÷Õû" />
-    <string id="txpd0016" text="ÆôÓÃ¾º¼¼³¡XP" />
-    <string id="txpd0017" text="¾º¼¼³¡XPµ÷Õû" />
-    <string id="txpd0018" text="×°±¸¹ýÂË(ÒÆ³ýÃ¬)" />
-    <string id="txpd0019" text="Ã¿³¡±ÈÈüÖØÐÂÖÀ÷»×Ó" />
-    <string id="txpd0020" text="1. ½±Æ·Ñ¡Ôñ" />
-    <string id="txpd0021" text="2. ½±³Ø½±Æ·" />
-    <string id="txpd0022" text="1. °üÀ¨³ÇÕò¿â´æ" />
-    <string id="txpd0023" text="2. °üÀ¨±ê×¼(ÆÕÍ¨)ÏîÄ¿" />
-    <string id="txpd0024" text="3. °üÀ¨×Ô¶¨ÒåÁÐ±í" />
-    <string id="txpd0025" text="4. °üÀ¨ÒÅ²ú" />
-    <string id="txpd0026" text="1. ½±Æ·×îÐ¡Öµ" />
-    <string id="txpd0027" text="2. ½±Æ·×î´óÖµ" />
-    <string id="txpd0028" text="3. Ã¿¼¶½±Àø" />
-    <string id="txpd0029" text="4. Ã¿¼¶½±Àø" />
-    <string id="txpd0030" text="5. ½±Æ·¹ýÂË¡£×îÐ¡×î´óÖµÊÊÓÃÓÚ³ÇÕò¿â´æ" />
-    <string id="txpd0031" text="6. ½±Æ·¹ýÂË¡£×îÐ¡×î´óÖµÊÊÓÃÓÚ×Ô¶¨ÒåÏîÄ¿" />
-    <string id="txpd0032" text="7. ½±Æ·É¸Ñ¡Æ÷¡£×îÐ¡×î´óÖµÊÊÓÃÓÚ±ê×¼ÏîÄ¿" />
-    <string id="txpd0033" text="8. ½±Æ·É¸Ñ¡Æ÷¡£×îÐ¡×î´óÖµÊÊÓÃÓÚÒÅÁôÎïÆ·" />
-    <string id="txpd0034" text="9. ³ÇÕò·±ÈÙÓ°Ïì½±Æ·¼ÛÖµ" />
-    <string id="txpd0035" text="10. ³ÇÕò·±ÈÙ¶È£ºµÍ" />
-    <string id="txpd0036" text="11. ³ÇÕò·±ÈÙ¶È£ºÖÐ" />
-    <string id="txpd0037" text="12. ³ÇÕò·±ÈÙ¶È£º¸ß" />
-    <string id="txpd0038" text="ÆôÓÃ³ÇÕòÎïÆ·½±ÀøÀàÐÍÉ¸Ñ¡Æ÷" />
-    <string id="txpd0039" text="ÆôÓÃ×Ô¶¨ÒåÎïÆ·½±ÀøÀàÐÍÉ¸Ñ¡Æ÷" />
-    <string id="txpd0040" text="ÆôÓÃ±ê×¼ÎïÆ·½±ÀøÀàÐÍÉ¸Ñ¡Æ÷" />
-    <string id="txpd0041" text="ÆôÓÃÒÅ²úÎïÆ·½±ÀøÀàÐÍÉ¸Ñ¡Æ÷" />
-    <string id="txpd0042" text="ÔÊÐí¹­" />
-    <string id="txpd0043" text="ÔÊÐíåó" />
-    <string id="txpd0044" text="ÔÊÐíµ¥ÊÖÎäÆ÷" />
-    <string id="txpd0045" text="ÔÊÐí³¤¸ËÎäÆ÷" />
-    <string id="txpd0046" text="ÔÊÐí¶ÜÅÆ" />
-    <string id="txpd0047" text="ÔÊÐíÍ¶ÖÀÎäÆ÷" />
-    <string id="txpd0048" text="ÔÊÐíË«ÊÖÎäÆ÷" />
-    <string id="txpd0049" text="ÔÊÐí¼ýÊ¸" />
-    <string id="txpd0050" text="ÔÊÐíåóÊ¸" />
-    <string id="txpd0051" text="ÔÊÐíÍ·¿ø" />
-    <string id="txpd0052" text="ÔÊÐí»¤±Û" />
-    <string id="txpd0053" text="ÔÊÐíîø¼×" />
-    <string id="txpd0054" text="ÔÊÐíÍÈ¼×" />
-    <string id="txpd0055" text="ÔÊÐíÅû¼ç/»¤¼ç" />
-    <string id="txpd0056" text="ÔÊÐíÂíÆ¥" />
-    <string id="txpd0057" text="ÔÊÐíÂí¾ß/Âí°°" />
-    <string id="txpd0058" text="°´³ÇÕòÎÄ»¯¹ýÂË³ÇÕò¿â´æ" />
-    <string id="txpd0059" text="°´³ÇÊÐÎÄ»¯¹ýÂË×Ô¶¨ÒåÎïÆ·" />
-    <string id="txpd0060" text="°´³ÇÕòÎÄ»¯¹ýÂË±ê×¼ÎïÆ·" />
-    <string id="txpd0061" text="°´³ÇÕòÎÄ»¯¹ýÂËÒÅ²úÎïÆ·" />
-    <string id="txpd0062" text="½õ±êÈü»ñÊ¤½ð±Ò½±Àø" />
-    <string id="txpd0063" text="½õ±êÈü»ñÊ¤ÉùÍû½±Àø" />
-    <string id="txpd0064" text="½õ±êÈü»ñÊ¤Ó°ÏìÁ¦½±Àø" />
-    <string id="txpd0065" text="Ã¿»ØºÏ½±Àø½ð±Ò" />
-    <string id="txpd0066" text="±ÈÈü»ñÊ¤Ê±»ñµÃ½ð±Ò½±Àø" />
-    <string id="txpd0067" text="×î¸ß»÷É±ÉùÍû½±Àø" />
-    <string id="txpd0068" text="×î¸ßÉËº¦ÉùÍû½±Àø" />
-    <string id="txpd0069" text="Ê×É±ÉùÍû½±Àø" />
-    <string id="txpd0070" text="×îµÍ³ÐÉËÉùÍû½±Àø" />
-    <string id="txpd0071" text="¶ÔÊÖÄÑ¶ÈÉùÍû½±Àø" />
-    <string id="txpd0072" text="1¼¶ÉùÍû½±Àø" />
-    <string id="txpd0073" text="2¼¶ÉùÍû½±Àø" />
-    <string id="txpd0074" text="3¼¶ÉùÍû½±Àø" />
-    <string id="txpd0075" text="4¼¶ÉùÍû½±Àø" />
-    <string id="txpd0076" text="5¼¶ÉùÍû½±Àø" />
-    <string id="txpd0077" text="6¼¶ÉùÍû½±Àø" />
-    <string id="txpd0078" text="7¼¶ÉùÍû½±Àø" />
-    <string id="txpd0079" text="³ÇÕò±¾µØÓ¢ÐÛÉùÍû½±Àø" />
-    <string id="txpd0080" text="ÎÞÃûÐ¡×äÉùÍû½±Àø" />
-    <string id="txpd0081" text="Í¬°éÉùÍû½±Àø" />
-    <string id="txpd0082" text="Ö¸»Ó¹ÙÉùÍû½±Àø" />
-    <string id="txpd0083" text="Ð¡¼Ò×åÓ¢ÐÛÉùÍû½±Àø" />
-    <string id="txpd0084" text="Ð¡¼Ò×åÁìÐäÉùÍû½±Àø" />
-    <string id="txpd0085" text="ÖªÃû¼Ò×åÁìÐäÉùÍû½±Àø" />
-    <string id="txpd0086" text="Îª½±Æ·ÆôÓÃItemModifiers" />
-    <string id="txpd0087" text="³ÇÕò·±ÈÙÓ°ÏìItemModifiers" />
-    <string id="txpd0088" text="·ÀÖ¹Íæ¼ÒÖÆ×÷µÄÎïÆ·³öÏÖÔÚÁÐ±íÖÐ" />
-    <string id="txpd0089" text="ÓÎÏ·ÄÑ¶ÈÓ°ÏìÅâÂÊ" />
-    <string id="txpd0090" text="×î´óÅâÂÊ" />
-    <string id="txpd0091" text="½õ±êÈüÉùÍû½±Àø¸ÄÎªµÈ¼¶¾­Ñé£¨£¿£©" />
-    <string id="txpd0092" text="Í¬°éÓ®È¡½±Àø(Î´¼¤»î)" />
-    <string id="txpd0093" text="ÆôÓÃËæ»ú±ÈÈüÀàÐÍ" />
-    <string id="txpd0094" text="ÆôÓÃ±ÈÈüÀàÐÍÑ¡Ôñ" />
-    <string id="txpd0095" text="ÆôÓÃµ÷ÊÔÄ£Ê½" />
-    <string id="txph0096" text="È¥³ý±ÈÈüÖÐ²½±øÓÃµÄ³¤Ã¬" />
-    <string id="txph0097" text="Ã¿´Î±ÈÈü¿ÉÒÔÖØÖÃ½±³ØµÄ×î´ó´ÎÊý.ÉèÖÃÎª0½«½ûÓÃ." />
-    <string id="txph0098" text="ÊÇ·ñÆôÓÃ´Ó½±Æ·³ØÖÐÑ¡Ôñ½±Æ·.ÕâÖ»Ó°Ïìµ¯³ö´°¿Ú,¶ø²»»áÓ°ÏìÆäËûÉ¸Ñ¡Ñ¡Ïî." />
-    <string id="txph0099" text="µ±Ç°³ÇÕò¿â´æÖÐµÄÎïÆ·¶¼°üÀ¨ÔÚ¿¼ÂÇ·¶Î§ÄÚ." />
-    <string id="txph0100" text="ÕâÊÇÓÎÏ·ÖÐµÄËùÓÐÎïÆ·,°üÀ¨×¢²áµ½ÓÎÏ·ÎïÆ·¿âÖÐµÄ,ÊÖ¹¤ÖÆ×÷»òÆäËû¾­¹ý¸Ä×°µÄÎïÆ·." />
-    <string id="txph0101" text="×Ô¶¨Òå½±Æ·ÁÐ±íÖÐµÄÎïÆ· - CustomPrizeItems.json - °üÀ¨ÔÚ¿¼ÂÇ·¶Î§ÄÚ." />
-    <string id="txph0102" text="ÕâÐ©ÊÇÀ´×ÔBannerlord v1.0.5ºÍ¸üµÍ°æ±¾µÄÏîÄ¿.ËüÃÇ°üÀ¨ÁËÏñEarly Retirement»òÕßThe ScalpalÕâÑù±»ÃüÃûµÄÎïÆ·." />
-    <string id="txph0103" text="²»Ê¹ÓÃµÍÓÚ´ËÖµµÄÈÎºÎÏîÄ¿." />
-    <string id="txph0104" text="²»Ê¹ÓÃ¸ßÓÚ´ËÖµµÄÈÎºÎÏîÄ¿." />
-    <string id="txph0105" text="Ã¿ÉýÒ»¼¶¾Í»áÔö¼Ó½±Æ·×îµÍ¼ÛÖµ.." />
-    <string id="txph0106" text="Ã¿ÉýÒ»¼¶¾Í»áÔö¼Ó½±Æ·×î¸ß¼ÛÖµ.." />
-    <string id="txph0107" text="ÉèÖÃÎªÐ¡Êý,ËùÒÔ.65±íÊ¾×î´óÖµµÄ65%." />
-    <string id="txph0108" text="ÉèÖÃÎªÐ¡Êý,ËùÒÔ1.0±íÊ¾×î´óÖµµÄ100%." />
-    <string id="txph0109" text="ÉèÖÃÎªÐ¡Êý,ËùÒÔ1.3±íÊ¾×î´óÖµµÄ130%." />
-    <string id="txph0110" text="ÎïÆ·³ØÖÐ½öÔÊÐíÊ¹ÓÃµ±Ç°³ÇÕòÎÄ»¯µÄÎïÆ·." />
-    <string id="txph0111" text="ÎïÆ·³ØÖÐ½öÔÊÐíÊ¹ÓÃµ±Ç°³ÇÕòÎÄ»¯µÄÎïÆ·." />
-    <string id="txph0112" text="ÎïÆ·³ØÖÐ½öÔÊÐíÊ¹ÓÃµ±Ç°³ÇÕòÎÄ»¯µÄÎïÆ·." />
-    <string id="txph0113" text="ÎïÆ·³ØÖÐ½öÔÊÐíÊ¹ÓÃµ±Ç°³ÇÕòÎÄ»¯µÄÎïÆ·." />
-    <string id="txph0114" text="Èç¹ûÆôÓÃ,Äú½«ÔÚÃ¿¾Ö±ÈÈü½áÊøºóÁ¢¼´»ñµÃ½±Àø.Èç¹û½ûÓÃ,Ôò½«ÔÚÓ®µÃËùÓÐ±ÈÈüºó»ñµÃ½±Àø." />
-    <string id="txph0115" text="¾¯¸æ:¿ÉÄÜµ¼ÖÂÎïÆ·¶ªÊ§,ºËÐÄÓÎÏ·ÖÐµÄBUG.ÔÚBL-1.2.0BetaÖÐËÆºõÃ»ÓÐÎÊÌâ,ÔÚBL-1.1.1/1.1/1.1.2ÖÐÒÑ±»½ûÓÃ" />
-    <string id="txph0116" text="Èç¹ûÆôÓÃÁËItemModifiers,Ôò´ËÉèÖÃ½«Ê¹ËüÃÇÇãÏòÓÚÔÚ¸ß·±ÈÙÊ±¸üºÃ,ÔÚµÍ·±ÈÙÊ±¸üÔã." />
-    <string id="txph0117" text="Èç¹ûÆôÓÃ,Íæ¼ÒÖÆ×÷µÄÎïÆ·½«±»ÅÅ³ýÔÚ½±ÀøÁÐ±íÖÐ." />
-    <string id="txph0118" text="²»ÄÜÔÚ1.5-betaÖÐÊ¹ÓÃ" />
-    <string id="txph0119" text="±ÈÈüÍ¶×¢µÄ×î´óÅâÂÊ" />
-    <string id="txph0120" text="ÐÞ¸´Ç°½ûÓÃ.Èç¹û¿ªÆô,½«±»ºöÂÔ." />
+    <string id="txpg0001" text="1. é”¦æ ‡èµ›é…ç½®" />
+    <string id="txpg0002" text="2. é‡ç½®å¥–æ± çš„æ¬¡æ•°" />
+    <string id="txpg0003" text="3.1 å¥–å“é€‰æ‹©" />
+    <string id="txpg0004" text="3.2 å¥–å“æ¥æº" />
+    <string id="txpg0005" text="3.3 å¥–å“ä»·å€¼" />
+    <string id="txpg0006" text="3.4 å¥–å“ç±»åž‹ç­›é€‰" />
+    <string id="txpg0007" text="3.5 å¥–å“ç±»åž‹ç­›é€‰" />
+    <string id="txpg0008" text="4.1 æ€»å¥–é‡‘" />
+    <string id="txpg0009" text="4.2 æ¯åœºæ¯”èµ›çš„å¥–é‡‘" />
+    <string id="txpg0010" text="4.3 æ¯å›žåˆå¯¹æ‰‹éš¾åº¦å¥–åŠ±çš„å£°æœ›" />
+    <string id="txpg0011" text="98. å®žéªŒæ€§çš„" />
+    <string id="txpg0012" text="99. æœªä½¿ç”¨" />
+    <string id="txpg0013" text="99. è¯Šæ–­ç³»ç»Ÿ" />
+    <string id="txpd0014" text="å¯ç”¨é”¦æ ‡èµ›XP" />
+    <string id="txpd0015" text="é”¦æ ‡èµ›XPè°ƒæ•´" />
+    <string id="txpd0016" text="å¯ç”¨ç«žæŠ€åœºXP" />
+    <string id="txpd0017" text="ç«žæŠ€åœºXPè°ƒæ•´" />
+    <string id="txpd0018" text="è£…å¤‡è¿‡æ»¤(ç§»é™¤çŸ›)" />
+    <string id="txpd0019" text="æ¯åœºæ¯”èµ›é‡æ–°æŽ·éª°å­" />
+    <string id="txpd0020" text="1. å¥–å“é€‰æ‹©" />
+    <string id="txpd0021" text="2. å¥–æ± å¥–å“" />
+    <string id="txpd0022" text="1. åŒ…æ‹¬åŸŽé•‡åº“å­˜" />
+    <string id="txpd0023" text="2. åŒ…æ‹¬æ ‡å‡†(æ™®é€š)é¡¹ç›®" />
+    <string id="txpd0024" text="3. åŒ…æ‹¬è‡ªå®šä¹‰åˆ—è¡¨" />
+    <string id="txpd0025" text="4. åŒ…æ‹¬é—äº§" />
+    <string id="txpd0026" text="1. å¥–å“æœ€å°å€¼" />
+    <string id="txpd0027" text="2. å¥–å“æœ€å¤§å€¼" />
+    <string id="txpd0028" text="3. æ¯çº§å¥–åŠ±" />
+    <string id="txpd0029" text="4. æ¯çº§å¥–åŠ±" />
+    <string id="txpd0030" text="5. å¥–å“è¿‡æ»¤ã€‚æœ€å°æœ€å¤§å€¼é€‚ç”¨äºŽåŸŽé•‡åº“å­˜" />
+    <string id="txpd0031" text="6. å¥–å“è¿‡æ»¤ã€‚æœ€å°æœ€å¤§å€¼é€‚ç”¨äºŽè‡ªå®šä¹‰é¡¹ç›®" />
+    <string id="txpd0032" text="7. å¥–å“ç­›é€‰å™¨ã€‚æœ€å°æœ€å¤§å€¼é€‚ç”¨äºŽæ ‡å‡†é¡¹ç›®" />
+    <string id="txpd0033" text="8. å¥–å“ç­›é€‰å™¨ã€‚æœ€å°æœ€å¤§å€¼é€‚ç”¨äºŽé—ç•™ç‰©å“" />
+    <string id="txpd0034" text="9. åŸŽé•‡ç¹è£å½±å“å¥–å“ä»·å€¼" />
+    <string id="txpd0035" text="10. åŸŽé•‡ç¹è£åº¦ï¼šä½Ž" />
+    <string id="txpd0036" text="11. åŸŽé•‡ç¹è£åº¦ï¼šä¸­" />
+    <string id="txpd0037" text="12. åŸŽé•‡ç¹è£åº¦ï¼šé«˜" />
+    <string id="txpd0038" text="å¯ç”¨åŸŽé•‡ç‰©å“å¥–åŠ±ç±»åž‹ç­›é€‰å™¨" />
+    <string id="txpd0039" text="å¯ç”¨è‡ªå®šä¹‰ç‰©å“å¥–åŠ±ç±»åž‹ç­›é€‰å™¨" />
+    <string id="txpd0040" text="å¯ç”¨æ ‡å‡†ç‰©å“å¥–åŠ±ç±»åž‹ç­›é€‰å™¨" />
+    <string id="txpd0041" text="å¯ç”¨é—äº§ç‰©å“å¥–åŠ±ç±»åž‹ç­›é€‰å™¨" />
+    <string id="txpd0042" text="å…è®¸å¼“" />
+    <string id="txpd0043" text="å…è®¸å¼©" />
+    <string id="txpd0044" text="å…è®¸å•æ‰‹æ­¦å™¨" />
+    <string id="txpd0045" text="å…è®¸é•¿æ†æ­¦å™¨" />
+    <string id="txpd0046" text="å…è®¸ç›¾ç‰Œ" />
+    <string id="txpd0047" text="å…è®¸æŠ•æŽ·æ­¦å™¨" />
+    <string id="txpd0048" text="å…è®¸åŒæ‰‹æ­¦å™¨" />
+    <string id="txpd0049" text="å…è®¸ç®­çŸ¢" />
+    <string id="txpd0050" text="å…è®¸å¼©çŸ¢" />
+    <string id="txpd0051" text="å…è®¸å¤´ç›”" />
+    <string id="txpd0052" text="å…è®¸æŠ¤è‡‚" />
+    <string id="txpd0053" text="å…è®¸é“ ç”²" />
+    <string id="txpd0054" text="å…è®¸è…¿ç”²" />
+    <string id="txpd0055" text="å…è®¸æŠ«è‚©/æŠ¤è‚©" />
+    <string id="txpd0056" text="å…è®¸é©¬åŒ¹" />
+    <string id="txpd0057" text="å…è®¸é©¬å…·/é©¬éž" />
+    <string id="txpd0058" text="æŒ‰åŸŽé•‡æ–‡åŒ–è¿‡æ»¤åŸŽé•‡åº“å­˜" />
+    <string id="txpd0059" text="æŒ‰åŸŽå¸‚æ–‡åŒ–è¿‡æ»¤è‡ªå®šä¹‰ç‰©å“" />
+    <string id="txpd0060" text="æŒ‰åŸŽé•‡æ–‡åŒ–è¿‡æ»¤æ ‡å‡†ç‰©å“" />
+    <string id="txpd0061" text="æŒ‰åŸŽé•‡æ–‡åŒ–è¿‡æ»¤é—äº§ç‰©å“" />
+    <string id="txpd0062" text="é”¦æ ‡èµ›èŽ·èƒœé‡‘å¸å¥–åŠ±" />
+    <string id="txpd0063" text="é”¦æ ‡èµ›èŽ·èƒœå£°æœ›å¥–åŠ±" />
+    <string id="txpd0064" text="é”¦æ ‡èµ›èŽ·èƒœå½±å“åŠ›å¥–åŠ±" />
+    <string id="txpd0065" text="æ¯å›žåˆå¥–åŠ±é‡‘å¸" />
+    <string id="txpd0066" text="æ¯”èµ›èŽ·èƒœæ—¶èŽ·å¾—é‡‘å¸å¥–åŠ±" />
+    <string id="txpd0067" text="æœ€é«˜å‡»æ€å£°æœ›å¥–åŠ±" />
+    <string id="txpd0068" text="æœ€é«˜ä¼¤å®³å£°æœ›å¥–åŠ±" />
+    <string id="txpd0069" text="é¦–æ€å£°æœ›å¥–åŠ±" />
+    <string id="txpd0070" text="æœ€ä½Žæ‰¿ä¼¤å£°æœ›å¥–åŠ±" />
+    <string id="txpd0071" text="å¯¹æ‰‹éš¾åº¦å£°æœ›å¥–åŠ±" />
+    <string id="txpd0072" text="1çº§å£°æœ›å¥–åŠ±" />
+    <string id="txpd0073" text="2çº§å£°æœ›å¥–åŠ±" />
+    <string id="txpd0074" text="3çº§å£°æœ›å¥–åŠ±" />
+    <string id="txpd0075" text="4çº§å£°æœ›å¥–åŠ±" />
+    <string id="txpd0076" text="5çº§å£°æœ›å¥–åŠ±" />
+    <string id="txpd0077" text="6çº§å£°æœ›å¥–åŠ±" />
+    <string id="txpd0078" text="7çº§å£°æœ›å¥–åŠ±" />
+    <string id="txpd0079" text="åŸŽé•‡æœ¬åœ°è‹±é›„å£°æœ›å¥–åŠ±" />
+    <string id="txpd0080" text="æ— åå°å’å£°æœ›å¥–åŠ±" />
+    <string id="txpd0081" text="åŒä¼´å£°æœ›å¥–åŠ±" />
+    <string id="txpd0082" text="æŒ‡æŒ¥å®˜å£°æœ›å¥–åŠ±" />
+    <string id="txpd0083" text="å°å®¶æ—è‹±é›„å£°æœ›å¥–åŠ±" />
+    <string id="txpd0084" text="å°å®¶æ—é¢†è¢–å£°æœ›å¥–åŠ±" />
+    <string id="txpd0085" text="çŸ¥åå®¶æ—é¢†è¢–å£°æœ›å¥–åŠ±" />
+    <string id="txpd0086" text="ä¸ºå¥–å“å¯ç”¨ItemModifiers" />
+    <string id="txpd0087" text="åŸŽé•‡ç¹è£å½±å“ItemModifiers" />
+    <string id="txpd0088" text="é˜²æ­¢çŽ©å®¶åˆ¶ä½œçš„ç‰©å“å‡ºçŽ°åœ¨åˆ—è¡¨ä¸­" />
+    <string id="txpd0089" text="æ¸¸æˆéš¾åº¦å½±å“èµ”çŽ‡" />
+    <string id="txpd0090" text="æœ€å¤§èµ”çŽ‡" />
+    <string id="txpd0091" text="é”¦æ ‡èµ›å£°æœ›å¥–åŠ±æ”¹ä¸ºç­‰çº§ç»éªŒï¼ˆï¼Ÿï¼‰" />
+    <string id="txpd0092" text="åŒä¼´èµ¢å–å¥–åŠ±(æœªæ¿€æ´»)" />
+    <string id="txpd0093" text="å¯ç”¨éšæœºæ¯”èµ›ç±»åž‹" />
+    <string id="txpd0094" text="å¯ç”¨æ¯”èµ›ç±»åž‹é€‰æ‹©" />
+    <string id="txpd0095" text="å¯ç”¨è°ƒè¯•æ¨¡å¼" />
+    <string id="txph0096" text="åŽ»é™¤æ¯”èµ›ä¸­æ­¥å…µç”¨çš„é•¿çŸ›" />
+    <string id="txph0097" text="æ¯æ¬¡æ¯”èµ›å¯ä»¥é‡ç½®å¥–æ± çš„æœ€å¤§æ¬¡æ•°.è®¾ç½®ä¸º0å°†ç¦ç”¨." />
+    <string id="txph0098" text="æ˜¯å¦å¯ç”¨ä»Žå¥–å“æ± ä¸­é€‰æ‹©å¥–å“.è¿™åªå½±å“å¼¹å‡ºçª—å£,è€Œä¸ä¼šå½±å“å…¶ä»–ç­›é€‰é€‰é¡¹." />
+    <string id="txph0099" text="å½“å‰åŸŽé•‡åº“å­˜ä¸­çš„ç‰©å“éƒ½åŒ…æ‹¬åœ¨è€ƒè™‘èŒƒå›´å†…." />
+    <string id="txph0100" text="è¿™æ˜¯æ¸¸æˆä¸­çš„æ‰€æœ‰ç‰©å“,åŒ…æ‹¬æ³¨å†Œåˆ°æ¸¸æˆç‰©å“åº“ä¸­çš„,æ‰‹å·¥åˆ¶ä½œæˆ–å…¶ä»–ç»è¿‡æ”¹è£…çš„ç‰©å“." />
+    <string id="txph0101" text="è‡ªå®šä¹‰å¥–å“åˆ—è¡¨ä¸­çš„ç‰©å“ - CustomPrizeItems.json - åŒ…æ‹¬åœ¨è€ƒè™‘èŒƒå›´å†…." />
+    <string id="txph0102" text="è¿™äº›æ˜¯æ¥è‡ªBannerlord v1.0.5å’Œæ›´ä½Žç‰ˆæœ¬çš„é¡¹ç›®.å®ƒä»¬åŒ…æ‹¬äº†åƒEarly Retirementæˆ–è€…The Scalpalè¿™æ ·è¢«å‘½åçš„ç‰©å“." />
+    <string id="txph0103" text="ä¸ä½¿ç”¨ä½ŽäºŽæ­¤å€¼çš„ä»»ä½•é¡¹ç›®." />
+    <string id="txph0104" text="ä¸ä½¿ç”¨é«˜äºŽæ­¤å€¼çš„ä»»ä½•é¡¹ç›®." />
+    <string id="txph0105" text="æ¯å‡ä¸€çº§å°±ä¼šå¢žåŠ å¥–å“æœ€ä½Žä»·å€¼.." />
+    <string id="txph0106" text="æ¯å‡ä¸€çº§å°±ä¼šå¢žåŠ å¥–å“æœ€é«˜ä»·å€¼.." />
+    <string id="txph0107" text="è®¾ç½®ä¸ºå°æ•°,æ‰€ä»¥.65è¡¨ç¤ºæœ€å¤§å€¼çš„65%." />
+    <string id="txph0108" text="è®¾ç½®ä¸ºå°æ•°,æ‰€ä»¥1.0è¡¨ç¤ºæœ€å¤§å€¼çš„100%." />
+    <string id="txph0109" text="è®¾ç½®ä¸ºå°æ•°,æ‰€ä»¥1.3è¡¨ç¤ºæœ€å¤§å€¼çš„130%." />
+    <string id="txph0110" text="ç‰©å“æ± ä¸­ä»…å…è®¸ä½¿ç”¨å½“å‰åŸŽé•‡æ–‡åŒ–çš„ç‰©å“." />
+    <string id="txph0111" text="ç‰©å“æ± ä¸­ä»…å…è®¸ä½¿ç”¨å½“å‰åŸŽé•‡æ–‡åŒ–çš„ç‰©å“." />
+    <string id="txph0112" text="ç‰©å“æ± ä¸­ä»…å…è®¸ä½¿ç”¨å½“å‰åŸŽé•‡æ–‡åŒ–çš„ç‰©å“." />
+    <string id="txph0113" text="ç‰©å“æ± ä¸­ä»…å…è®¸ä½¿ç”¨å½“å‰åŸŽé•‡æ–‡åŒ–çš„ç‰©å“." />
+    <string id="txph0114" text="å¦‚æžœå¯ç”¨,æ‚¨å°†åœ¨æ¯å±€æ¯”èµ›ç»“æŸåŽç«‹å³èŽ·å¾—å¥–åŠ±.å¦‚æžœç¦ç”¨,åˆ™å°†åœ¨èµ¢å¾—æ‰€æœ‰æ¯”èµ›åŽèŽ·å¾—å¥–åŠ±." />
+    <string id="txph0115" text="è­¦å‘Š:å¯èƒ½å¯¼è‡´ç‰©å“ä¸¢å¤±,æ ¸å¿ƒæ¸¸æˆä¸­çš„BUG.åœ¨BL-1.2.0Betaä¸­ä¼¼ä¹Žæ²¡æœ‰é—®é¢˜,åœ¨BL-1.1.1/1.1/1.1.2ä¸­å·²è¢«ç¦ç”¨" />
+    <string id="txph0116" text="å¦‚æžœå¯ç”¨äº†ItemModifiers,åˆ™æ­¤è®¾ç½®å°†ä½¿å®ƒä»¬å€¾å‘äºŽåœ¨é«˜ç¹è£æ—¶æ›´å¥½,åœ¨ä½Žç¹è£æ—¶æ›´ç³Ÿ." />
+    <string id="txph0117" text="å¦‚æžœå¯ç”¨,çŽ©å®¶åˆ¶ä½œçš„ç‰©å“å°†è¢«æŽ’é™¤åœ¨å¥–åŠ±åˆ—è¡¨ä¸­." />
+    <string id="txph0118" text="ä¸èƒ½åœ¨1.5-betaä¸­ä½¿ç”¨" />
+    <string id="txph0119" text="æ¯”èµ›æŠ•æ³¨çš„æœ€å¤§èµ”çŽ‡" />
+    <string id="txph0120" text="ä¿®å¤å‰ç¦ç”¨.å¦‚æžœå¼€å¯,å°†è¢«å¿½ç•¥." />
   </strings>
 </base>
