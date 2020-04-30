@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="utf-16" ?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="简体中文" />    
+    <tag language="简体中文" />
   </tags>
   <strings>
-    <string id="tourn001" text="测试" />
-    <string id="tourn002" text="选择比赛奖品" />
-    <string id="tourn003" text="选择比赛类型" />
-    <string id="tourn004" text="重置奖品池" />
+    <string id="tourn001" text="重置奖品" />
+    <string id="tourn002" text="选择奖品" />
+    <string id="tourn003" text="选择比赛风格" />
+    <string id="tourn004" text="超过重置次数" />
     <string id="tourn005" text="比赛奖品选择" />
-    <string id="tourn006" text="确定" />
-    <string id="tourn007" text="放弃" />
-    <string id="tourn008" text="标准比赛" />
-    <string id="tourn009" text="1v1匹配比赛" />
+    <string id="tourn006" text="OK" />
+    <string id="tourn007" text="取消" />
+    <string id="tourn008" text="标准团队混战" />
+    <string id="tourn009" text="PVP/死亡混战" />
     <string id="tourn010" text="比赛类型选择" />
-    <string id="tourn011" text="您今天想参加哪种比赛？" />
-    <string id="tourn012" text="如果您赢得比赛，可以从下面的列表中选择一个项目作为奖励！" />
+    <string id="tourn011" text="您今天想参加哪种比赛?" />
+    <string id="tourn012" text="如果您赢得比赛，可以从下面的列表中选择一项作为奖励！" />
+    <string id="tourn013" text="皇家混战比赛" />
+    <string id="tourn014" text="比赛将是1v1自由团队混战."/>
+    <string id="tourn015" text="比赛将是1v1淘汰赛."/>
+    <string id="tourn016" text="比赛将是自由系列赛."/>
+    <string id="tourn017" text="比赛将由所有剩下的参赛者组成."/>
+    <string id="tourn018" text="覆军杀将！你获得本场首杀！奖励："/>
+    <string id="tourn019" text="大杀四方！你获得本场MVP！奖励："/>
+    <string id="tourn020" text="你获得本场MVP，并列第一！奖励："/>
+    <string id="tourn021" text="血战八荒！你本场造成的伤害最大！奖励："/>
+    <string id="tourn022" text="你本场造成的伤害最大，并列第一！奖励："/>
+    <string id="tourn023" text="怯防勇战！你本场受到的伤害最低！奖励："/>
+    <string id="tourn024" text="你本场受到的伤害最低，并列第一！奖励："/>
   </strings>
 </base>
